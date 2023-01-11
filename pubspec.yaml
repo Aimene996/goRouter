@@ -36,6 +36,8 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.15
+  go_router: ^6.0.1
+  faker: ^2.1.0
 
 dev_dependencies:
   flutter_lints: ^2.0.0
